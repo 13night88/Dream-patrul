@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 066a13ea44f776b418124d296163f3bf
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: 3469583918978820846
+    second: ALENA_RIG|Alena_anim_01
+  - first:
+      74: -6611718579146425548
+    second: ALENA_RIG|Alena_anim_02
+  - first:
+      74: -8329440723091830130
+    second: ALENA_RIG|Alena_anim_03
+  - first:
+      74: -3536400833031046178
+    second: ALENA_RIG|Alena_anim_04
+  - first:
+      74: -5794535396922842669
+    second: ALENA_RIG|ALENA_BASE_POSE
+  - first:
+      74: -1009492074725318281
+    second: ALENA_RIG|animation_01.001
+  - first:
+      74: 4585749049887674992
+    second: ALENA_RIG|animation_02.001
+  - first:
+      74: -3565617204603847649
+    second: ALENA_RIG|animation_03.001
+  - first:
+      74: -24704112485077166
+    second: ALENA_RIG|animation_04.001
+  - first:
+      74: 2475200763102634897
+    second: ALENA_RIG|CameraAction
+  - first:
+      74: 8333239254386085172
+    second: ALENA_RIG|Empty.001Action
+  - first:
+      74: 1833060200778852682
+    second: ALENA_RIG|Empty.001Action.001
+  - first:
+      74: 6322830212786419830
+    second: ALENA_RIG|Empty.001Action.002
+  - first:
+      74: -2697705175269102203
+    second: ALENA_RIG|Empty.001Action.003
+  - first:
+      74: 3309275836558945933
+    second: ALENA_RIG|Empty.001Action.004
+  - first:
+      74: -915982102867164474
+    second: ALENA_RIG|Empty.001Action.005
+  - first:
+      74: -529776961206441177
+    second: ALENA_RIG|Empty.001Action.006
+  - first:
+      74: 6501258995917645796
+    second: ALENA_RIG|Empty.001Action.007
+  - first:
+      74: -9031523297459551926
+    second: ALENA_RIG|Empty.001Action.008
+  - first:
+      74: 6012721721933059667
+    second: ALENA_RIG|EmptyAction
+  - first:
+      74: 2644523147966401669
+    second: ALENA_RIG|GPencil.001Action
+  - first:
+      74: -5014693485695136959
+    second: ALENA_RIG|GPencil.001Action.002
+  - first:
+      74: 1436968931140808271
+    second: ALENA_RIG|GPencil.005Action
+  - first:
+      74: 7167510225490099902
+    second: ALENA_RIG|VARIA_RIGAction
+  - first:
+      74: 8420209294270776565
+    second: ALENA_RIG|VARIA_RIGAction.003
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
